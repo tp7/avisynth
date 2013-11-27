@@ -82,7 +82,7 @@ localised text messages. *Examples:* ::Chr(34) returns the quote character
 
 ::Ord("a") = 97
     Ord("AviSynth") = Ord("A") = 65
-    Ord("?") = 167
+    Ord("§") = 167
 
 -   Time   |   v2.51   |   Time(string)
 
